@@ -1,0 +1,23 @@
+{
+  "name": "ftfe",
+  "version": "1.0.0",
+  "description": "a platform which allows the authors/reporters to pick and choose sides.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krupt3x/ftfe.git"
+  },
+  "keywords": [
+    "ftfe",
+    "news"
+  ],
+  "author": "krupt3x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krupt3x/ftfe/issues"
+  },
+  "homepage": "https://github.com/krupt3x/ftfe#readme"
+}
